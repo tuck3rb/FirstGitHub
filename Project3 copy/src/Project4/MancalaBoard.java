@@ -2,7 +2,7 @@ package Project4;
 
 import java.util.HashMap;
 
-// This is the MancalaBoard class
+
 
 public class MancalaBoard {
 
